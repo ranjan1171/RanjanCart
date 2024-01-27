@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const URL = 'http://localhost:8000';
+const URL = 'https://rjcart-server.onrender.com';
 
 // export const authenticateLogin = async (data) => {
 //     try {
